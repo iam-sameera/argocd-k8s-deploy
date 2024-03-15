@@ -1,4 +1,5 @@
 # Argocd Deployment Repository
+[Full Tutorial](https://medium.com/@sameeradissanayaka/complete-ci-cd-pipeline-gitops-project-with-docker-kubernetes-githubactions-and-argocd-step-by-step-cebf766c9d42)
 
 This repository serves as a central hub for managing deployment configurations using ArgoCD. The primary objective is to facilitate efficient monitoring and deployment of applications defined within the `deployment.yml` file.
 
